@@ -34,6 +34,7 @@ body {
 <body>
     <header>
         <h1>Tişört Mağazamıza Hoş Geldiniz!</h1>
+
         <nav>
             <ul>
                 <li><a href="signup.html">Kayıt Ol</a></li>
