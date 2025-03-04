@@ -339,4 +339,36 @@ footer {
         <p>&copy; 2025 Tişört Mağazası</p>
     </footer>
 </body>
-</html>
+</html><pre
+    Kodlar burada olacak...
+</pre><pre>
+    Kodlar burada olacak...
+</pre><pre style="display:none;">
+    Kodlar burada olacak...
+</pre><code style="display:none;">
+    Kodlar burada olacak...
+</code>body {
+    background-color: #f0f8ff; /* Açık mavi bir arka plan */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}body {
+    background-color: #f0f8ff; /* Açık mavi bir arka plan */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}#00f
