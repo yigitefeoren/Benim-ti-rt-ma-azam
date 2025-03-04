@@ -371,4 +371,6 @@ header {
     color: white;
     padding: 10px 0;
     text-align: center;
-}#00f
+}#00fbody {
+    background: linear-gradient(to right, #ff7e5f, #feb47b); /* Renkli degrade arka plan */
+}
