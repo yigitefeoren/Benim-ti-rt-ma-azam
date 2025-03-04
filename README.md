@@ -302,4 +302,41 @@ footer {
     text-align: center;
 }
 
-.product-list
+.product-list/* Yazma kodlarını gizle */
+.writing-code {
+    display: none;
+}
+
+/* Çelenkleri göster */
+.wreath {
+    display: block;
+}<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tişört Mağazası</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Tişört Mağazamıza Hoş Geldiniz!</h1>
+        <nav>
+            <ul>
+                <li><a href="signup.html">Kayıt Ol</a></li>
+                <li><a href="login.html">Giriş Yap</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="main-content">
+        <h2>En Popüler Tişörtler</h2>
+        <p>Burada en popüler tişörtlerimiz var. İstediğini seçip satın alabilirsin!</p>
+        <a href="view-products.html" class="button">Ürünleri Gör</a>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Tişört Mağazası</p>
+    </footer>
+</body>
+</html>
