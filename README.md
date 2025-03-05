@@ -381,4 +381,4 @@ header {
 /* Çelenkleri göster */
 .wreath {
     display: block;
-}
+}<meta name="google-site-verification" content="TPc47vorebodh1JdOSOucPM8hjUbXS5w-E5ucthsAnk" />
