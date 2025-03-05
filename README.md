@@ -381,4 +381,10 @@ header {
 /* Çelenkleri göster */
 .wreath {
     display: block;
-}<meta name="google-site-verification" content="TPc47vorebodh1JdOSOucPM8hjUbXS5w-E5ucthsAnk" />
+}<meta name="google-site-verification" content="TPc47vorebodh1JdOSOucPM8hjUbXS5w-E5ucthsAnk" /><head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="google-site-verification" content="TPc47vorebodh1JdOSOucPM8hjUbXS5w-E5ucthsAnk" />
+  <title>Benim Tişört Mağazam</title>
+  <!-- Diğer meta etiketleri ve linkler -->
+</head>
