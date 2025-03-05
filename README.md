@@ -381,4 +381,10 @@ header {
 /* Çelenkleri göster */
 .wreath {
     display: block;
-}
+}<div class="writing-code">
+    <!-- Yazma kodları buraya gelecek -->
+</div>
+
+<div class="wreath">
+    <!-- Çelenkler buraya gelecek -->
+</div>
