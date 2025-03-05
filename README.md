@@ -373,4 +373,12 @@ header {
     text-align: center;
 }#00fbody {
     background: linear-gradient(to right, #ff7e5f, #feb47b); /* Renkli degrade arka plan */
+}/* Yazma kodlarını gizle */
+.writing-code {
+    display: none;
+}
+
+/* Çelenkleri göster */
+.wreath {
+    display: block;
 }
